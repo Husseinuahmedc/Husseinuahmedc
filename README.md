@@ -1,7 +1,7 @@
 <h1 align="center">Hussein Ahmed Jasim</h1>
 <p align="center">
-  <b>Computer Engineering Student · DevOps · Linux · Embedded Systems</b><br>
-  University of Technology – Baghdad | Expected 2027
+  <b>Computer Engineering Student | DevOps | Linux | Embedded Systems</b><br>
+  University of Technology - Baghdad | Expected 2027
 </p>
 
 ---
@@ -55,6 +55,6 @@ Focused on DevOps practices, Python tooling, and ESP32-based IoT projects.
 ---
 
 <p align="center">
-  <a href="mailto:iehusseinahmed@gmail.com">Email</a> ·
+  <a href="mailto:iehusseinahmed@gmail.com">Email</a> |
   <a href="https://github.com/Husseinuahmedc">GitHub</a>
 </p>
