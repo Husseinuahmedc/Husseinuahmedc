@@ -1,16 +1,9 @@
 <div align="center">
 
-```
-██╗  ██╗██╗   ██╗███████╗███████╗███████╗██╗███╗   ██╗
-██║  ██║██║   ██║██╔════╝██╔════╝██╔════╝██║████╗  ██║
-███████║██║   ██║███████╗███████╗█████╗  ██║██╔██╗ ██║
-██╔══██║██║   ██║╚════██║╚════██║██╔══╝  ██║██║╚██╗██║
-██║  ██║╚██████╔╝███████║███████║███████╗██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝
-```
+# Hussein Ahmed
 
 **Computer Engineering Student**  
-Linux · Python Automation · CLI Tools · DevOps Basics
+Linux user · Python automation · Web tools · Embedded systems
 
 ![Profile views](https://komarev.com/ghpvc/?username=Husseinuahmedc&color=0d1117&style=flat-square&label=PROFILE+VIEWS)
 
@@ -18,41 +11,58 @@ Linux · Python Automation · CLI Tools · DevOps Basics
 
 ---
 
-## `whoami`
+## About
 
-```bash
-$ cat about.txt
+I am a Computer Engineering student focused on building small, practical software projects.
 
-Name    : Hussein Ahmed
-Role    : Computer Engineering Student
-Focus   : Python CLI · Linux Automation · Bash · Flask · ESP32
-OS      : Linux (obviously)
-Status  : Building useful tools, one commit at a time
+Most of my work is around:
+
+- Python automation and CLI tools
+- Linux desktop workflows and dotfiles
+- Flask / JavaScript study websites
+- ESP32 and embedded experiments
+- Networking and computer engineering labs
+
+I use GitHub to document what I build, improve my projects step by step, and keep a visible record of my learning.
+
+---
+
+## Current Focus
+
+```text
+Computer Engineering
+Linux / Hyprland setup
+Python CLI tools
+Flask + JavaScript projects
+Networking labs
+ESP32 / Arduino experiments
 ```
 
 ---
 
 ## Featured Projects
 
-| Project | Stack | What it does |
+| Project | Type | Description |
 |---|---|---|
-| [**pdf-sweeper**](https://github.com/Husseinuahmedc/pdf-sweeper) | Python · CLI | Cross-platform tool for finding and managing PDF files |
-| [**spotify-auto**](https://github.com/Husseinuahmedc/spotify-auto) | Python · Spotify API | Time-based playlist automation |
-| [**devterminal**](https://github.com/Husseinuahmedc/devterminal) | Bash · Linux | Custom Linux CLI workflow helper |
-| [**Azure-Simulate-Guardian**](https://github.com/Husseinuahmedc/Azure-Simulate-Guardian) | Python · Azure | Azure cost simulation and monitoring tool |
-| [**job-tracker**](https://github.com/Husseinuahmedc/job-tracker) | Flask · SQLite | Simple job application tracker |
-| [**myplaylistsongs**](https://github.com/Husseinuahmedc/myplaylistsongs) | JavaScript | Playlist song display web app |
+| [pdf-sweeper](https://github.com/Husseinuahmedc/pdf-sweeper) | Python CLI | Find, copy, move, or delete PDF files recursively from the terminal. |
+| [spotify-auto](https://github.com/Husseinuahmedc/spotify-auto) | Python automation | Time-based Spotify playlist automation using Spotipy. |
+| [myplaylistsongs](https://github.com/Husseinuahmedc/myplaylistsongs) | Web app | Static playlist website with JavaScript modules and local storage. |
+| [Network](https://github.com/Husseinuahmedc/Network) | Study website | Network final-exam revision site based on department material. |
+| [DataStructure](https://github.com/Husseinuahmedc/DataStructure) | Study website | Data Structures study site for lectures, codes, and revision. |
+| [omarchy-dotfiles](https://github.com/Husseinuahmedc/omarchy-dotfiles) | Linux config | Personal Linux desktop configuration files. |
 
 ---
 
-## Stack
+## Tech Stack
 
-```
-Languages   →  Python  •  Bash  •  JavaScript  •  C
-Backend     →  Flask  •  SQLite
-Cloud       →  Azure (basics)
-Hardware    →  ESP32  •  Embedded Systems
-Tools       →  Git  •  Linux  •  VS Code  •  CLI
+```text
+Languages   : Python, JavaScript, C++, C, Bash
+Web         : HTML, CSS, Flask, Jinja
+Database    : SQLite
+Linux       : Arch Linux, Fedora, Hyprland, Waybar, fish shell
+Embedded    : ESP32, Arduino, PlatformIO
+Tools       : Git, GitHub, VS Code, Neovim, Docker basics
+Networking  : Cisco Packet Tracer, VLANs, OSPF basics, TCP/IP
 ```
 
 ---
@@ -70,6 +80,8 @@ Tools       →  Git  •  Linux  •  VS Code  •  CLI
 ---
 
 <div align="center">
+
+**Building useful tools. Improving one commit at a time.**
 
 [github.com/Husseinuahmedc](https://github.com/Husseinuahmedc)
 
